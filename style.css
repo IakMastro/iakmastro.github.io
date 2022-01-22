@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400&display=swap');
+
+body {
+  font-family: 'Oxygen', sans-serif;
+}
+
+.content {
+  padding-top: 2rem;
+  padding-right: 10rem;
+  padding-left: 5rem;
+}
+
+.content h3 {
+  font-size: 3em;
+}
+
+.content p {
+  text-align: justify;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  font-size: 1.5em;
+}
